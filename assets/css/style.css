@@ -1,0 +1,14 @@
+.time-line-card::after {
+    content: "";
+    position: absolute;
+    top: 45%;
+    right: 100%;
+    margin-left: -5px;
+    border-width: 14px;
+    border-style: solid;
+    border-color: transparent #f5f5f6 transparent transparent;
+}
+
+.rounded-2px {
+    border-radius: 2px !important;
+}

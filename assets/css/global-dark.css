@@ -1,0 +1,10 @@
+/* begin::Dark mode background colors */
+
+html[data-bs-theme=dark] .pw-dark-bg-table {
+  background-color: var( --pw-dark-bg-table) !important;
+}
+html[data-bs-theme=dark] .pw-dark-bg-tr {
+  background-color: var( --pw-dark-bg-tr) !important;
+}
+
+/* end::Dark mode background colors */
